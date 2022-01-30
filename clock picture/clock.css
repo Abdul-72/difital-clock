@@ -392,9 +392,9 @@ select {
 
 @media screen and (max-width:360px) {
      .left-secound {
-         position: relative;
+         /* position: relative;
          top: 100px;
-         right: 200px;
+         right: 200px; */
 
 
     } 
