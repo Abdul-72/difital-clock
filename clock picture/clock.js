@@ -42,6 +42,28 @@ function clock () {
 
 
 
+// function mor() {
+
+// var r = new Date().getHours
+
+//      if (r>=13&&r<=16) {
+//         j.innerHTML="GOOD AFTERNOON!!"
+
+//     }
+//     else if (r>16&&r<=23) {
+//         j.innerHTML = "GOOD EVENING !!"
+
+
+//     }
+//     else if (r>=1&&r<12) {
+//         j.innerHTML="GOOD MORNING!!"
+
+//     }
+
+// }
+
+
+
 
 function dynamicdiv () {
 
@@ -107,7 +129,9 @@ function  settime() {
     }
 
 
-    dynamicdiv ()
+    dynamicdiv () 
+
+    
    
 } 
 
